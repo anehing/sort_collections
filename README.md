@@ -76,6 +76,10 @@ hash_array.order_collection(order_with: "email")
 
 You can assign any key word what you want!
 
+## Todo
+
+1. sort sort a array that the element is `Object`
+
 ## Contributing
 
 1. Fork it
