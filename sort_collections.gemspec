@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "sort_collections"
   spec.version       = SortCollections::VERSION
   spec.authors       = ["Dylan Deng"]
-  spec.email         = ["dylan@beansmile.com"]
+  spec.email         = ["lanrion_dht@163.com"]
   spec.description   = "To sort a array that the element is `Hash`"
   spec.summary       = "To sort a array that the element is `Hash`"
   spec.homepage      = "https://github.com/lanrion/sort_collections"
